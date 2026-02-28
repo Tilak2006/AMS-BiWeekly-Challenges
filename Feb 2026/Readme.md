@@ -4,7 +4,7 @@
 **Tags:** Combinatorics, Modular Arithmetic, Market Microstructure, Subset Sum  
 **Setter:** Tilak Jain  
 **Date:** February 16, 2026  
-**Top Solver:** TBD
+**Top Solver:** Simanga Comfort Mchunu | University of South Africa
 
 ---
 
