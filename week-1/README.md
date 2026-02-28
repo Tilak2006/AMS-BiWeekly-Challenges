@@ -1,4 +1,4 @@
-# Week 1 — The Probabilistic Sieve
+# Month 1 — The Probabilistic Sieve
 
 **Difficulty:** Medium  
 **Tags:** Number Theory, Probability, Combinatorics, Bitmasks  
